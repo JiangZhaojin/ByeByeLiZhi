@@ -1,0 +1,57 @@
+#vcomments .vlink {
+    display: none;
+}
+
+#vcomments .vwrap {
+    margin-bottom: 0;
+}
+
+#vcomments .vmail {
+    display: none;
+}
+
+#vcomments .vsys {
+    display: none;
+}
+
+#vcomments .vcard {
+    padding-top: 10px;
+}
+
+#vcomments .vcontent {
+    margin: 0;
+    padding: 5px 0;
+}
+
+#vcomments .vimg {
+    width: 2em;
+    height: 2em;
+}
+
+#vcomments .vnick {
+    width: 100%;
+}
+
+#vcomments #veditor {
+    min-height: 50px;
+}
+
+#vcomments .vemoji-btn {
+    padding: 0 10px;
+}
+
+#vcomments .vpreview-btn {
+    padding: 0 10px;
+}
+
+#vcomments .vcontrol {
+    padding-top: 10px;
+}
+
+#vcomments  div[title="Markdown is supported"] {
+    visibility: hidden;
+}
+
+#vcomments .info {
+    display: none;
+}

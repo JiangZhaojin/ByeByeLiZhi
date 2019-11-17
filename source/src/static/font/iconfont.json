@@ -1,0 +1,100 @@
+{
+  "id": "1512425",
+  "name": "ByeBye-LiZhi",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "36572",
+      "name": "上一首",
+      "font_class": "shangyishou",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "36574",
+      "name": "下一首",
+      "font_class": "kuaijin",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "647455",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "807279",
+      "name": "暂停",
+      "font_class": "zanting",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "1447736",
+      "name": "暂停",
+      "font_class": "zanting1",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "1488893",
+      "name": "单曲循环",
+      "font_class": "danquxunhuan",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "1488899",
+      "name": "列表循环",
+      "font_class": "liebiaoxunhuan",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "4460467",
+      "name": "返回",
+      "font_class": "fanhui",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "6263343",
+      "name": "声音",
+      "font_class": "shengyin",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "7417086",
+      "name": "上一首",
+      "font_class": "shangyishou1",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "7417092",
+      "name": "下一首",
+      "font_class": "xiayishou",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "7949503",
+      "name": "评论",
+      "font_class": "pinglun",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    },
+    {
+      "icon_id": "10809844",
+      "name": "赞 点赞",
+      "font_class": "changyongtubiao-xianxingdaochu-zhuanqu-",
+      "unicode": "e73c",
+      "unicode_decimal": 59196
+    }
+  ]
+}
