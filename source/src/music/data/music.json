@@ -77,12 +77,12 @@
         "src": "http://q0yq0bciu.bkt.clouddn.com/李志 - 来了.mp3"
     }]
 }, {
-    "name": "这个世界会更好吗",
+    "name": "这个世界会好吗",
     "cover": "http://q0yq0bciu.bkt.clouddn.com/image照片3 001.jpg",
     "category": 3,
     "musics": [{
         "id": [3, 10],
-        "name": "这个世界会更好吗",
+        "name": "这个世界会好吗",
         "src": "http://q0yq0bciu.bkt.clouddn.com/audio李志 - 这个世界会更好吗.mp3"
     }, {
         "id": [3, 1],
@@ -303,6 +303,75 @@
         "id": [6, 10],
         "name": "铅笔",
         "src": "http://q0yq0bciu.bkt.clouddn.com/zhenzhou-李志 - 铅笔.mp3"
+    }]
+}, {
+    "name": "108个关键词",
+    "cover": "http://q0yq0bciu.bkt.clouddn.com/108个-Cover.jpg",
+    "category": 17,
+    "musics": [{
+        "id": [17, 1],
+        "name": "忽然",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/108个-01 忽然.mp3"
+    }, {
+        "id": [17, 2],
+        "name": "墙上的向日葵",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/108个-02 墙上的向日葵.mp3"
+    }, {
+        "id": [17, 3],
+        "name": "董卓瑶",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/108个-02 董卓瑶.mp3"
+    }, {
+        "id": [17, 4],
+        "name": "阿兰",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/108个-03 阿兰.mp3"
+    }, {
+        "id": [17, 5],
+        "name": "黑色信封",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/108个-03 黑色信封.mp3"
+    }, {
+        "id": [17, 6],
+        "name": "下雨",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/108个-04 下雨.mp3"
+    }, {
+        "id": [17, 7],
+        "name": "和你在一起",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/108个-04 和你在一起.mp3"
+    }, {
+        "id": [17, 8],
+        "name": "关于郑州的记忆",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/108个-05 关于郑州的记忆.mp3"
+    }, {
+        "id": [17, 9],
+        "name": "尽头",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/108个-05 尽头.mp3"
+    }, {
+        "id": [17, 10],
+        "name": "来了",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/108个-06 来了.mp3"
+    }, {
+        "id": [17, 11],
+        "name": "青春",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/108个-06 青春.mp3"
+    }, {
+        "id": [17, 12],
+        "name": "人民不需要自由",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/108个-07 人民不需要自由.mp3"
+    }, {
+        "id": [17, 13],
+        "name": "倒影",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/108个-07 倒影.mp3"
+    }, {
+        "id": [17, 14],
+        "name": "她+我们不能失去信仰+1990年的春天（2012 Live）",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/108个-08 她+我们不能失去信仰+1990年的春天（2012 Live）.mp3"
+    }, {
+        "id": [17, 15],
+        "name": "山阴路的夏天",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/108个-08 山阴路的夏天.mp3"
+    }, {
+        "id": [17, 16],
+        "name": "姐姐",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/108个-09 姐姐.mp3"
     }]
 }, {
     "name": "F",
@@ -615,6 +684,59 @@
         "src": "http://q0yq0bciu.bkt.clouddn.com/看见-李志 - 黑色信封 2015现场版.mp3"
     }]
 }, {
+    "name": "北京不插电演唱会",
+    "cover": "http://q0yq0bciu.bkt.clouddn.com/北京不插电-北京不插电.jpg",
+    "category": 18,
+    "musics": [{
+        "id": [18, 1],
+        "name": "朱格乐,张怡然,姚斌 - 结婚 (2016 unplugged)",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/北京不插电-朱格乐,张怡然,姚斌 - 结婚 (2016 unplugged).mp3"
+    }, {
+        "id": [18, 2],
+        "name": "关于郑州的记忆 (2016 unplugged)",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/北京不插电-李志 - 关于郑州的记忆 (2016 unplugged).mp3"
+    }, {
+        "id": [18, 3],
+        "name": "大象 (2016 unplugged)",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/北京不插电-李志 - 大象 (2016 unplugged).mp3"
+    }, {
+        "id": [18, 4],
+        "name": "定西 (2016 unplugged)",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/北京不插电-李志 - 定西 (2016 unplugged).mp3"
+    }, {
+        "id": [18, 5],
+        "name": "春末的南方城市 (2016 unplugged)",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/北京不插电-李志 - 春末的南方城市 (2016 unplugged).mp3"
+    }, {
+        "id": [18, 6],
+        "name": "杭州 (2016 unplugged)",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/北京不插电-李志 - 杭州 (2016 unplugged).mp3"
+    }, {
+        "id": [18, 7],
+        "name": "这个世界会好吗 (2016 unplugged)",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/北京不插电-李志 - 这个世界会好吗 (2016 unplugged).mp3"
+    }, {
+        "id": [18, 8],
+        "name": "鸵鸟 (2016 unplugged)",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/北京不插电-李志 - 鸵鸟 (2016 unplugged).mp3"
+    }, {
+        "id": [18, 9],
+        "name": "黑色信封 (2016 unplugged)",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/北京不插电-李志 - 黑色信封 (2016 unplugged).mp3"
+    }, {
+        "id": [18, 10],
+        "name": "鼠说 (2016 unplugged)",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/北京不插电-李志 - 鼠说 (2016 unplugged).mp3"
+    }, {
+        "id": [18, 11],
+        "name": "山阴路的夏天 (2016 unplugged)",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/北京不插电-李志,张怡然 - 山阴路的夏天 (2016 unplugged).mp3"
+    }, {
+        "id": [18, 12],
+        "name": "李志,朱格乐,张怡然 - 热河 (2016 unplugged)",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/北京不插电-李志,朱格乐,张怡然 - 热河 (2016 unplugged).mp3"
+    }]
+}, {
     "name": "在每一条伤心的应天大街上",
     "cover": "http://q0yq0bciu.bkt.clouddn.com/应天大街-12ab26c3f0c47f453da8491fc1b33240.jpg",
     "category": 13,
@@ -650,5 +772,225 @@
         "id": [13, 8],
         "name": "克兰河",
         "src": "http://q0yq0bciu.bkt.clouddn.com/应天大街-李志 - 03.克兰河.mp3"
+    }]
+}, {
+    "name": "8",
+    "cover": "http://q0yq0bciu.bkt.clouddn.com/888888-cover.jpg",
+    "category": 14,
+    "musics": [{
+        "id": [14, 1],
+        "name": "歌声与微笑",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/888888-01.歌声与微笑.mp3"
+    }, {
+        "id": [14, 2],
+        "name": "蜗牛与黄鹂鸟",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/888888-02.蜗牛与黄鹂鸟.mp3"
+    }, {
+        "id": [14, 3],
+        "name": "兰花草",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/888888-03.兰花草.mp3"
+    }, {
+        "id": [14, 4],
+        "name": "数鸭子",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/888888-04.数鸭子.mp3"
+    }, {
+        "id": [14, 5],
+        "name": "朋友越多越快乐",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/888888-05.朋友越多越快乐.mp3"
+    }, {
+        "id": [14, 6],
+        "name": "Hey Jude",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/888888-06.Hey Jude.mp3"
+    }, {
+        "id": [14, 7],
+        "name": "采蘑菇的小姑娘",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/888888-07.采蘑菇的小姑娘.mp3"
+    }, {
+        "id": [14, 8],
+        "name": "小螺号",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/888888-08.小螺号.mp3"
+    }, {
+        "id": [14, 9],
+        "name": "送别",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/888888-09.送别.mp3"
+    }]
+}, {
+    "name": "声乐管弦",
+    "cover": "http://q0yq0bciu.bkt.clouddn.com/声乐管弦-cover.jpg",
+    "category": 15,
+    "musics": [{
+        "id": [15, 1],
+        "name": "序曲",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/声乐管弦-01 - 序曲.mp3"
+    }, {
+        "id": [15, 2],
+        "name": "杭州",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/声乐管弦-02 - 杭州.mp3"
+    }, {
+        "id": [15, 3],
+        "name": "尽头",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/声乐管弦-03 - 尽头.mp3"
+    }, {
+        "id": [15, 4],
+        "name": "定西",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/声乐管弦-04 - 定西.mp3"
+    }, {
+        "id": [15, 5],
+        "name": "春末的南方城市",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/声乐管弦-05 - 春末的南方城市.mp3"
+    }, {
+        "id": [15, 6],
+        "name": "黑色信封",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/声乐管弦-06 - 黑色信封.mp3"
+    }, {
+        "id": [15, 7],
+        "name": "铅笔",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/声乐管弦-07 - 铅笔.mp3"
+    }, {
+        "id": [15, 8],
+        "name": "和你在一起",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/声乐管弦-08 - 和你在一起.mp3"
+    }, {
+        "id": [15, 9],
+        "name": "墙上的向日葵",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/声乐管弦-09 - 墙上的向日葵.mp3"
+    }, {
+        "id": [15, 10],
+        "name": "大象",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/声乐管弦-10 - 大象.mp3"
+    }, {
+        "id": [15, 11],
+        "name": "门",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/声乐管弦-11 - 门.mp3"
+    }, {
+        "id": [15, 12],
+        "name": "回答",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/声乐管弦-12 - 回答.mp3"
+    }]
+}, {
+    "name": "爵士与不插电新编",
+    "cover": "http://q0yq0bciu.bkt.clouddn.com/爵士与不插电新编-爵士.jpeg",
+    "category": 16,
+    "musics": [{
+        "id": [16, 1],
+        "name": "一个夜晚",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/爵士与不插电新编-李志 - 一个夜晚.mp3"
+    }, {
+        "id": [16, 2],
+        "name": "关于郑州的记忆",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/爵士与不插电新编-李志 - 关于郑州的记忆.mp3"
+    }, {
+        "id": [16, 3],
+        "name": "卡夫卡",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/爵士与不插电新编-李志 - 卡夫卡.mp3"
+    }, {
+        "id": [16, 4],
+        "name": "死人",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/爵士与不插电新编-李志 - 死人.mp3"
+    }, {
+        "id": [16, 5],
+        "name": "热河",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/爵士与不插电新编-李志 - 热河.mp3"
+    }, {
+        "id": [16, 6],
+        "name": "爱",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/爵士与不插电新编-李志 - 爱.mp3"
+    }, {
+        "id": [16, 7],
+        "name": "看见",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/爵士与不插电新编-李志 - 看见.mp3"
+    }, {
+        "id": [16, 8],
+        "name": "离婚",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/爵士与不插电新编-李志 - 离婚.mp3"
+    }, {
+        "id": [16, 9],
+        "name": "翁庆年的六英镑",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/爵士与不插电新编-李志 - 翁庆年的六英镑.mp3"
+    }, {
+        "id": [16, 10],
+        "name": "董卓瑶",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/爵士与不插电新编-李志 - 董卓瑶.mp3"
+    }, {
+        "id": [16, 11],
+        "name": "鸵鸟",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/爵士与不插电新编-李志 - 鸵鸟.mp3"
+    }, {
+        "id": [16, 12],
+        "name": "鼠说",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/爵士与不插电新编-李志 - 鼠说.mp3"
+    }]
+}, {
+    "name": "洗心革面",
+    "cover": "http://q0yq0bciu.bkt.clouddn.com/洗心革面-洗心革面.jpg",
+    "category": 19,
+    "musics": [{
+        "id": [19, 1],
+        "name": "一个夜晚-洗心革面",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/洗心革面-一个夜晚-洗心革面.mp3"
+    }, {
+        "id": [19, 2],
+        "name": "你好明天-洗心革面",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/洗心革面-你好明天洗心革面.mp3"
+    }, {
+        "id": [19, 3],
+        "name": "你离开了南京从此没人和我说话-洗心革面",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/洗心革面-你离开了南京从此没人和我说话.mp3"
+    }, {
+        "id": [19, 4],
+        "name": "倒影-洗心革面",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/洗心革面-倒影-洗心革面.mp3"
+    }, {
+        "id": [19, 5],
+        "name": "吉他曲-洗心革面",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/洗心革面-吉他曲-洗心革面.mp3"
+    }, {
+        "id": [19, 6],
+        "name": "和你在一起-洗心革面",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/洗心革面-和你在一起-洗心革面.mp3"
+    }, {
+        "id": [19, 7],
+        "name": "哦吼-洗心革面",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/洗心革面-哦吼-洗心革面.mp3"
+    }, {
+        "id": [19, 8],
+        "name": "天空之城-洗心革面",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/洗心革面-天空之城-洗心革面.mp3"
+    }, {
+        "id": [19, 9],
+        "name": "寻找-忽然-热河-洗心革面",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/洗心革面-寻找-忽然-热河-洗心革面.mp3"
+    }, {
+        "id": [19, 10],
+        "name": "春末的南方的城市-洗心革面",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/洗心革面-春末的南方的城市-洗心革面.mp3"
+    }, {
+        "id": [19, 11],
+        "name": "来了-洗心革面",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/洗心革面-来了-洗心革面.mp3"
+    }, {
+        "id": [19, 12],
+        "name": "结婚-洗心革面",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/洗心革面-结婚-洗心革面.mp3"
+    }, {
+        "id": [19, 13],
+        "name": "董卓瑶-洗心革面",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/洗心革面-董卓瑶-洗心革面.mp3"
+    }, {
+        "id": [19, 14],
+        "name": "被禁忌的游戏-洗心革面",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/洗心革面-被禁忌的游戏-洗心革面.mp3"
+    }, {
+        "id": [19, 15],
+        "name": "路-洗新革面",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/洗心革面-路-洗新革面.mp3"
+    }, {
+        "id": [19, 16],
+        "name": "门-尽头-洗心革面",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/洗心革面-门-尽头 洗心革面.mp3"
+    }, {
+        "id": [19, 17],
+        "name": "黑色信封-洗心革面",
+        "src": "http://q0yq0bciu.bkt.clouddn.com/洗心革面-黑色信封-洗心革面.mp3"
     }]
 }]
