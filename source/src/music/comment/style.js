@@ -37,4 +37,7 @@ export const DevelopLink = styled.a`
     text-decoration: none;
     color: #999;
     font-weight: bold;
+    &:hover {
+        color: #1abc9c;
+    }
 `;
