@@ -5,35 +5,35 @@
     "musics": [{
         "id": [1, 1],
         "name": "被禁忌的游戏",
-        "src": "https://github.com/JiangZhaojin/ByeByeLiZhi/blob/master/music/被禁忌的游戏/李志 - 被禁忌的游戏.mp3"
+        "src": "http://byebyelizhi.top/music/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/%E6%9D%8E%E5%BF%97%20-%20%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F.mp3"
     }, {
         "id": [1, 2],
         "name": "阿兰",
-        "src": "http://q0yq0bciu.bkt.clouddn.com/李志 -  阿兰.mp3"
+        "src": "http://byebyelizhi.top/music/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/李志 -  阿兰.mp3"
     }, {
         "id": [1, 3],
         "name": "信封",
-        "src": "http://q0yq0bciu.bkt.clouddn.com/李志 - 信封.mp3"
+        "src": "http://byebyelizhi.top/music/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/李志 - 信封.mp3"
     }, {
         "id": [1, 4],
         "name": "卡夫卡",
-        "src": "http://q0yq0bciu.bkt.clouddn.com/李志 - 卡夫卡.mp3"
+        "src": "http://byebyelizhi.top/music/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/李志 - 卡夫卡.mp3"
     }, {
         "id": [1, 5],
         "name": "欢愉",
-        "src": "http://q0yq0bciu.bkt.clouddn.com/李志 - 欢愉.mp3"
+        "src": "http://byebyelizhi.top/music/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/李志 - 欢愉.mp3"
     }, {
         "id": [1, 6],
         "name": "离婚",
-        "src": "http://q0yq0bciu.bkt.clouddn.com/李志 - 离婚.mp3"
+        "src": "http://byebyelizhi.top/music/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/李志 - 离婚.mp3"
     }, {
         "id": [1, 7],
         "name": "红色气球",
-        "src": "http://q0yq0bciu.bkt.clouddn.com/李志 - 红色气球.mp3"
+        "src": "http://byebyelizhi.top/music/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/李志 - 红色气球.mp3"
     }, {
         "id": [1, 8],
         "name": "罗庄的冬天",
-        "src": "http://q0yq0bciu.bkt.clouddn.com/李志 - 罗庄的冬天.mp3"
+        "src": "http://byebyelizhi.top/music/%E8%A2%AB%E7%A6%81%E5%BF%8C%E7%9A%84%E6%B8%B8%E6%88%8F/李志 - 罗庄的冬天.mp3"
     }]
 }, {
     "name": "梵高先生",
