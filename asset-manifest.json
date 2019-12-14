@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.7f4e740b.chunk.css",
-    "main.js": "/static/js/main.f547e126.chunk.js",
-    "main.js.map": "/static/js/main.f547e126.chunk.js.map",
+    "main.js": "/static/js/main.19bdfc95.chunk.js",
+    "main.js.map": "/static/js/main.19bdfc95.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d4bdb63d.js",
     "runtime-main.js.map": "/static/js/runtime-main.d4bdb63d.js.map",
     "static/js/2.a301fcc9.chunk.js": "/static/js/2.a301fcc9.chunk.js",
     "static/js/2.a301fcc9.chunk.js.map": "/static/js/2.a301fcc9.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c63deb653d3badfb872ba6195a50c5e9.js": "/precache-manifest.c63deb653d3badfb872ba6195a50c5e9.js",
+    "precache-manifest.a301ecea6a62db8a862b35a2c4a47115.js": "/precache-manifest.a301ecea6a62db8a862b35a2c4a47115.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.7f4e740b.chunk.css.map": "/static/css/main.7f4e740b.chunk.css.map",
     "static/media/iconfont.css": "/static/media/iconfont.caac901a.ttf"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d4bdb63d.js",
     "static/js/2.a301fcc9.chunk.js",
     "static/css/main.7f4e740b.chunk.css",
-    "static/js/main.f547e126.chunk.js"
+    "static/js/main.19bdfc95.chunk.js"
   ]
 }
