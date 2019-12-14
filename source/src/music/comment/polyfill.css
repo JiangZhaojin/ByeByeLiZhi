@@ -45,7 +45,7 @@
 }
 
 #vcomments .vcontrol {
-    padding-top: 10px;
+    padding-top: 0px;
 }
 
 #vcomments  div[title="Markdown is supported"] {
@@ -53,5 +53,13 @@
 }
 
 #vcomments .info {
+    display: none;
+}
+
+#vcomments .vnick.vinput {
+    padding: 0;
+}
+
+#vcomments .vctrl {
     display: none;
 }

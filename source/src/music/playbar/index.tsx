@@ -40,6 +40,11 @@ export default class PlayBar extends Component<PlayBarProps, PlayBarState> {
   constructor(props: PlayBarProps) {
       super(props);
   }
+  componentWillReceiveProps(nextProps: PlayBarProps) {
+    if (this.props.music !== nextProps.music) {
+      this.handleTimeupdate();
+    }
+  }
   componentDidUpdate() {
       document.title = this.props.music.name || '正在播放...';
   }
@@ -123,7 +128,7 @@ export default class PlayBar extends Component<PlayBarProps, PlayBarState> {
                   <Btn className="iconfont icon-xiayishou" onClick={this.handleNextClick.bind(this)}></Btn>
               </ControlBtn>
               <Progress>
-                <ProgressTitle>{this.props.music.name}</ProgressTitle>
+                <ProgressTitle>{this.props.music.name + (this.state.currentTime > 0 ? '' : '（缓冲较慢，请耐心等候）')}</ProgressTitle>
                 <ProgressTime>{currentTimeStr + ' / ' + durationStr}</ProgressTime>
                 <ProgressBar onClick={this.handleProgressClick.bind(this)}>
                   <ProgressContent style={{ width: this.state.ratio}}></ProgressContent>

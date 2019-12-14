@@ -9,9 +9,47 @@ export const CommentWrapper = styled.div`
     box-sizing: border-box;
 `;
 
+export const TipsWrapper = styled.div`
+    width: 100%;
+    height 90px;
+    padding: 10px;
+    box-sizing: border-box;
+    box-shadow: 0 -2px 10px #ddd;
+    border-radius: 4px;
+    background: white;
+    margin-bottom: 6px;
+    overflow: hidden;
+`;
+
+export const MoneyCode = styled.div`
+    float: left;
+    width: 80px;
+    height: 100%;
+    position: relative;
+    background: url(http://byebyelizhi.top/static/img/alipay2.png);
+    background-size: contain;
+`;
+
+export const MoneyCode2 = styled.div`
+    width: 100%;
+    height: 14px;
+    position: absolute;
+    bottom: 0;
+    background: url(http://byebyelizhi.top/static/img/alipay.png) no-repeat 50% 50%;
+    background-size: contain;
+`;
+
+export const TipsText = styled.div`
+    line-height: 3;
+    text-align: center;
+    padding: 0 10px 0 100px;
+    color: #999;
+    font-size: 12px;
+`;
+
 export const CommentContent = styled.div`
     overflow: auto;
-    height: calc(100% - 40px);
+    height: calc(100% - 150px);
     padding: 20px;
     box-sizing: border-box;
     box-shadow: 0 -2px 10px #ddd;

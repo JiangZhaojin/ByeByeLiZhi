@@ -1,7 +1,17 @@
 import React, { Component } from 'react';
 import Valine from 'valine';
 import leanStor from 'leancloud-storage';
-import { CommentWrapper, CommentContent, DevelopInfo, DevelopLink } from './style.js';
+import {
+  CommentWrapper,
+  CommentContent,
+  DevelopInfo,
+  DevelopLink,
+  TipsWrapper,
+  MoneyCode,
+  MoneyCode2,
+  TipsText
+} from './style.js';
+
 import './polyfill.css';
 
 export default class Comment extends Component<any> {
@@ -21,6 +31,13 @@ export default class Comment extends Component<any> {
   render() {
     return (
       <CommentWrapper>
+        <TipsWrapper>
+          <MoneyCode><MoneyCode2></MoneyCode2></MoneyCode>
+          <TipsText>
+            <p>换了服务器，可以随便听了（缓冲慢）</p>
+            <p>流量大 有经济能力的朋友可以赞助主机费</p>
+          </TipsText>
+        </TipsWrapper>
         <CommentContent id="vcomments"></CommentContent>
         <DevelopInfo>
           建议/吐槽&联系开发者：
