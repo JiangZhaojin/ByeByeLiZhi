@@ -26,13 +26,13 @@ export const MoneyCode = styled.div`
     width: 80px;
     height: 100%;
     position: relative;
-    background: url(http://byebyelizhi.top/static/img/alipay2.png);
-    background-size: contain;
+    background: url(http://byebyelizhi.top/static/img/alipay2.png) no-repeat;
+    background-size: cover;
 `;
 
 export const MoneyCode2 = styled.div`
     width: 100%;
-    height: 14px;
+    height: 10px;
     position: absolute;
     bottom: 0;
     background: url(http://byebyelizhi.top/static/img/alipay.png) no-repeat 50% 50%;
@@ -49,7 +49,7 @@ export const TipsText = styled.div`
 
 export const CommentContent = styled.div`
     overflow: auto;
-    height: calc(100% - 150px);
+    height: calc(100% - 134px);
     padding: 20px;
     box-sizing: border-box;
     box-shadow: 0 -2px 10px #ddd;
