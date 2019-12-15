@@ -34,8 +34,7 @@ export default class Comment extends Component<any> {
         <TipsWrapper>
           <MoneyCode><MoneyCode2></MoneyCode2></MoneyCode>
           <TipsText>
-            <p>换了服务器，可以随便听了（缓冲慢）</p>
-            <p>流量大 有经济能力的朋友可以赞助主机费</p>
+            由于域名不能备案，只能用国外的服务器，会很慢（建议百度网盘下载
           </TipsText>
         </TipsWrapper>
         <CommentContent id="vcomments"></CommentContent>

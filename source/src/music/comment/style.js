@@ -11,7 +11,7 @@ export const CommentWrapper = styled.div`
 
 export const TipsWrapper = styled.div`
     width: 100%;
-    height 90px;
+    height 34px;
     padding: 10px;
     box-sizing: border-box;
     box-shadow: 0 -2px 10px #ddd;
@@ -22,6 +22,7 @@ export const TipsWrapper = styled.div`
 `;
 
 export const MoneyCode = styled.div`
+    display: none;
     float: left;
     width: 80px;
     height: 100%;
@@ -40,16 +41,14 @@ export const MoneyCode2 = styled.div`
 `;
 
 export const TipsText = styled.div`
-    line-height: 3;
     text-align: center;
-    padding: 0 10px 0 100px;
     color: #999;
     font-size: 12px;
 `;
 
 export const CommentContent = styled.div`
     overflow: auto;
-    height: calc(100% - 134px);
+    height: calc(100% - 80px);
     padding: 20px;
     box-sizing: border-box;
     box-shadow: 0 -2px 10px #ddd;
