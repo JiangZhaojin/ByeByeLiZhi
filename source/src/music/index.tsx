@@ -3,7 +3,7 @@ import React, { Component, Fragment } from 'react';
 import Menu from './menu/index';
 import Player from './playbar/index';
 import Comment from './comment/index';
-import musicList from './data/music-qiniuyun.json';
+import musicList from './data/music.json';
 import { MusicWrapper } from './style.js';
 
 interface MusicPlayState {
