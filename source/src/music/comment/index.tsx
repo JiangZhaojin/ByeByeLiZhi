@@ -41,7 +41,7 @@ export default class Comment extends Component<any> {
         <DevelopInfo>
           建议/吐槽&联系开发者：
           <DevelopLink target="_blank" href="https://weibo.com/u/6894442207">微博</DevelopLink>&nbsp;&nbsp;
-          下载：<DevelopLink target="_blank" href="https://pan.baidu.com/s/1ctDoQigFVjmYVYkVs9Fx2w">百度网盘</DevelopLink>(提取码:ob6n)
+          下载：<DevelopLink target="_blank" href="https://pan.baidu.com/s/1lJXJw4iKl-lrn6wKxBCEPQ">百度网盘</DevelopLink>(提取码:mehf)
         </DevelopInfo>
       </CommentWrapper>
     )
