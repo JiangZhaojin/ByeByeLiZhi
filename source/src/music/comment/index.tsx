@@ -41,7 +41,7 @@ export default class Comment extends Component<any> {
         <DevelopInfo>
           建议/吐槽&联系开发者：
           <DevelopLink target="_blank" href="https://weibo.com/u/6894442207">微博</DevelopLink>&nbsp;&nbsp;
-          下载：<DevelopLink target="_blank" href="https://github.com/JiangZhaojin/ByeByeLiZhi/tree/master/music>Github</DevelopLink>
+          下载：<DevelopLink target="_blank" href="https://github.com/JiangZhaojin/ByeByeLiZhi/tree/master/music">Github</DevelopLink>
         </DevelopInfo>
       </CommentWrapper>
     )
