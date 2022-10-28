@@ -31,17 +31,10 @@ export default class Comment extends Component<any> {
   render() {
     return (
       <CommentWrapper>
-<!--         <TipsWrapper>
-          <MoneyCode><MoneyCode2></MoneyCode2></MoneyCode>
-          <TipsText>
-            
-          </TipsText>
-        </TipsWrapper> -->
         <CommentContent id="vcomments"></CommentContent>
         <DevelopInfo>
-          由于域名不能备案，只能用国外服务器。
-<!--           <DevelopLink target="_blank" href="https://weibo.com/u/6894442207">微博</DevelopLink>&nbsp;&nbsp; -->
-          下载：<DevelopLink target="_blank" href="https://pan.baidu.com/s/1hQUZtLFxsBtoS0zbLm9qHQ">网盘(r87t)</DevelopLink>
+          域名不能备案，只能用国外服务器 很慢。
+          可下载：<DevelopLink target="_blank" href="https://pan.baidu.com/s/1hQUZtLFxsBtoS0zbLm9qHQ">网盘(r87t)</DevelopLink>
         </DevelopInfo>
       </CommentWrapper>
     )
