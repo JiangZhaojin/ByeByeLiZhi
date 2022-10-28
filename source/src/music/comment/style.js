@@ -48,7 +48,7 @@ export const TipsText = styled.div`
 
 export const CommentContent = styled.div`
     overflow: auto;
-    height: calc(100% - 80px);
+    height: calc(100% - 40px);
     padding: 20px;
     box-sizing: border-box;
     box-shadow: 0 -2px 10px #ddd;
