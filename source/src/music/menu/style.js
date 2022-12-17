@@ -1,16 +1,11 @@
 import styled from 'styled-components';
 
 export const MenuWrapper = styled.div`
-    position: absolute;
-    left: 10%;
-    top 10%;
-    width: 50%;
-    height: 80%;
+    flex: 1;
     overflow: auto;
-    margin: auto;
-    box-shadow: 0 0 10px #ddd;
-    background: white;
+    height: 100%;
     border-radius: 4px;
+    border-right: 1px solid #eee;
 `;
 
 export const Menu = styled.div`
@@ -19,6 +14,7 @@ export const Menu = styled.div`
     margin-left: 10%;
     display: inline-block;
     cursor: pointer;
+    border-right: 1px solid #eee;
 `;
 
 export const MenuCover = styled.img`
