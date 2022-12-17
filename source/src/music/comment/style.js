@@ -1,80 +1,77 @@
 import styled from 'styled-components';
+import AlipayImg from '../../static/picture/alipay.jpeg';
+import WeiboImg from '../../static/picture/weibo.jpeg';
+import WechatImg from '../../static/picture/wechatpay.png';
+import BaiduImg from '../../static/picture/baidudisk.png';
+
 
 export const CommentWrapper = styled.div`
-    position: absolute;
-    right: 10%;
-    top 10%;
-    width: 25%;
-    height: 80%;
+    position: relative
+    width: 400px;
+`;
+
+export const CommentContent = styled.div`
+    overflow: auto;
+    height: calc(100% - 114px);
+    padding: 20px;
     box-sizing: border-box;
 `;
 
 export const TipsWrapper = styled.div`
     width: 100%;
-    height 34px;
-    padding: 10px;
-    box-sizing: border-box;
-    box-shadow: 0 -2px 10px #ddd;
-    border-radius: 4px;
-    background: white;
-    margin-bottom: 6px;
+    height 110px;
+    display: flex;
+    border-top: 1px solid #eee;
+    font-size: 14px;
+    color: #333;
+    font-weight: bold;
+    text-align: center;
+`;
+
+export const Downloader = styled.a`
+    flex: 1;
+    padding: 20px 4px;
+    border-right: 1px solid #eee;
+    background: url(${BaiduImg}) no-repeat 50% 70%;
+    background-size: 60%;
+    cursor: pointer;
+    &:hover {
+        box-shadow: 0 0 8px #1abc9c;
+        z-index: 1;
+    }
+`;
+
+export const MoneyInfo = styled.div`
+    flex: 2;
+    padding: 4px;
     overflow: hidden;
+    line-height: 1.4;
 `;
 
 export const MoneyCode = styled.div`
-    display: none;
-    float: left;
-    width: 80px;
-    height: 100%;
-    position: relative;
-    background: url(http://byebyelizhi.top/static/img/alipay2.png) no-repeat;
-    background-size: cover;
-`;
-
-export const MoneyCode2 = styled.div`
-    width: 100%;
-    height: 10px;
-    position: absolute;
-    bottom: 0;
-    background: url(http://byebyelizhi.top/static/img/alipay.png) no-repeat 50% 50%;
+    float: right;
+    padding: 44px;
+    background: url(${WechatImg}) no-repeat;
     background-size: contain;
 `;
 
-export const TipsText = styled.div`
-    text-align: center;
-    color: #999;
-    font-size: 12px;
+export const MoneyCode2 = styled.div`
+    float: right;
+    padding: 44px;
+    background: url(${AlipayImg}) no-repeat 50% 50%;
+    background-size: contain;
 `;
 
-export const CommentContent = styled.div`
-    overflow: auto;
-    height: calc(100% - 40px);
-    padding: 20px;
+export const DevelopInfo = styled.a`
+    flex: 1;
+    padding: 20px 4px;
+    border-right: 1px solid #eee;
     box-sizing: border-box;
-    box-shadow: 0 -2px 10px #ddd;
-    border-radius: 4px;
-    background: white;
-`;
-
-export const DevelopInfo = styled.div`
-    font-size: 12px;
-    color: #999;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    padding: 10px 20px;
-    box-sizing: border-box;
-    text-align: center;
-    box-shadow: 0 2px 6px #ddd;
-    border-radius: 4px;
-    background: white;
-`;
-
-export const DevelopLink = styled.a`
-    text-decoration: none;
-    color: #999;
-    font-weight: bold;
+    background: url(${WeiboImg}) no-repeat 50% 70%;
+    background-size: 120%;
+    cursor: pointer;
     &:hover {
-        color: #1abc9c;
+        box-shadow: 0 0 8px #1abc9c;
+        z-index: 1;
     }
 `;

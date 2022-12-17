@@ -5,11 +5,11 @@ import {
   CommentWrapper,
   CommentContent,
   DevelopInfo,
-  DevelopLink,
+  Downloader,
   TipsWrapper,
+  MoneyInfo,
   MoneyCode,
   MoneyCode2,
-  TipsText
 } from './style.js';
 
 import './polyfill.css';
@@ -32,10 +32,15 @@ export default class Comment extends Component<any> {
     return (
       <CommentWrapper>
         <CommentContent id="vcomments"></CommentContent>
-        <DevelopInfo>
-          域名不能备案，只能用国外服务器 很慢。
-          可下载：<DevelopLink target="_blank" href="https://pan.baidu.com/s/1hQUZtLFxsBtoS0zbLm9qHQ">网盘(r87t)</DevelopLink>
-        </DevelopInfo>
+        <TipsWrapper>
+          <Downloader target="_blank" href="https://pan.baidu.com/s/1hQUZtLFxsBtoS0zbLm9qHQ">网盘(r87t)</Downloader>
+          <DevelopInfo target="_blank" href="https://weibo.com/u/6894442207">联系开发者</DevelopInfo>
+          <MoneyInfo>
+            <div>请开发者喝奶茶</div>
+            <MoneyCode></MoneyCode>
+            <MoneyCode2></MoneyCode2>
+          </MoneyInfo>
+        </TipsWrapper>
       </CommentWrapper>
     )
   }
