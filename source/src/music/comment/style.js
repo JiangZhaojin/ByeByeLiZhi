@@ -8,6 +8,7 @@ import BaiduImg from '../../static/picture/baidudisk.png';
 export const CommentWrapper = styled.div`
     position: relative
     width: 400px;
+    max-width: 100%;
 `;
 
 export const CommentContent = styled.div`

@@ -11,4 +11,12 @@ export const MusicWrapper = styled.div`
     background: white;
     border-radius: 10px;
     overflow: hidden;
+    @media (max-width: 500px) {
+        display: block;
+        width: 100%;
+        height: calc(100% - 120px);
+        border-radius: 0;
+        margin: 0;
+        overflow: auto;
+    }
 `;

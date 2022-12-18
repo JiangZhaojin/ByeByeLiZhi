@@ -6,6 +6,9 @@ export const MenuWrapper = styled.div`
     height: 100%;
     border-radius: 4px;
     border-right: 1px solid #eee;
+    @media (max-width: 500px) {
+        height: auto;
+    }
 `;
 
 export const Menu = styled.div`
@@ -14,7 +17,6 @@ export const Menu = styled.div`
     margin-left: 10%;
     display: inline-block;
     cursor: pointer;
-    border-right: 1px solid #eee;
 `;
 
 export const MenuCover = styled.img`

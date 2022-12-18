@@ -10,6 +10,12 @@ export const PlayBarWrapper = styled.div`
     background: white;
     box-shadow: 0 -2px 4px #dfdfdf;
     display: flex;
+    @media (max-width: 500px) {
+        padding: 10px;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
 `;
 
 export const ControlBtn = styled.div`
@@ -36,6 +42,9 @@ export const Progress = styled.div`
     padding: 0 2%;
     box-sizing: border-box;
     font-size: 14px;
+    @media (max-width: 500px) {
+        display: none;
+    }
 `;
 
 export const ProgressTitle = styled.div`
@@ -78,6 +87,9 @@ export const Voice = styled.div`
     display: flex;
     align-items: center;
     width: 220px;
+    @media (max-width: 500px) {
+        display: none;
+    }
 `;
 
 export const VoiceIcon = styled.span`
