@@ -37,9 +37,6 @@ export default class PlayBar extends Component<PlayBarProps, PlayBarState> {
       ratio: this.getRatio(0),
       voiceRatio: this.getRatio(1, 1)
   }
-  constructor(props: PlayBarProps) {
-      super(props);
-  }
   componentWillReceiveProps(nextProps: PlayBarProps) {
     if (this.props.music !== nextProps.music) {
       this.handleTimeupdate();

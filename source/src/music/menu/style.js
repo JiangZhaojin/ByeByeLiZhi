@@ -66,7 +66,7 @@ export const ReturnBtn = styled.span`
     font-size: 16px;
     margin: 50px 0 20px 86px;
     color: #333;
-    padding: 10px 25px;
+    padding: 10px 50px;
     border-radius: 25px;
     background: rgba(0, 0, 0, .1);
     &:hover {

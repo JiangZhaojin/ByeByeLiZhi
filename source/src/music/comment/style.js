@@ -2,7 +2,7 @@ import styled from 'styled-components';
 import AlipayImg from '../../static/picture/alipay.jpeg';
 import WeiboImg from '../../static/picture/weibo.jpeg';
 import WechatImg from '../../static/picture/wechatpay.png';
-import BaiduImg from '../../static/picture/baidudisk.png';
+// import BaiduImg from '../../static/picture/baidudisk.png';
 
 
 export const CommentWrapper = styled.div`
@@ -13,14 +13,13 @@ export const CommentWrapper = styled.div`
 
 export const CommentContent = styled.div`
     overflow: auto;
-    height: calc(100% - 114px);
+    height: calc(100% - 40px);
     padding: 20px;
     box-sizing: border-box;
 `;
 
 export const TipsWrapper = styled.div`
     width: 100%;
-    height 110px;
     display: flex;
     border-top: 1px solid #eee;
     font-size: 14px;
@@ -31,14 +30,12 @@ export const TipsWrapper = styled.div`
 
 export const Downloader = styled.a`
     flex: 1;
-    padding: 20px 4px;
+    padding: 13px 4px;
     border-right: 1px solid #eee;
-    background: url(${BaiduImg}) no-repeat 50% 70%;
     background-size: 60%;
     cursor: pointer;
     &:hover {
-        box-shadow: 0 0 8px #1abc9c;
-        z-index: 1;
+        color: #1abc9c;
     }
 `;
 

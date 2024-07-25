@@ -4,12 +4,12 @@ import leanStor from 'leancloud-storage';
 import {
   CommentWrapper,
   CommentContent,
-  DevelopInfo,
+  // DevelopInfo,
   Downloader,
   TipsWrapper,
-  MoneyInfo,
-  MoneyCode,
-  MoneyCode2,
+  // MoneyInfo,
+  // MoneyCode,
+  // MoneyCode2,
 } from './style.js';
 
 import './polyfill.css';
@@ -33,13 +33,13 @@ export default class Comment extends Component<any> {
       <CommentWrapper>
         <CommentContent id="vcomments"></CommentContent>
         <TipsWrapper>
-          <Downloader target="_blank" href="https://pan.baidu.com/s/1i7BB-znA65-AGdLdpshnCA?pwd=znsw">网盘(r87t)</Downloader>
-          <DevelopInfo target="_blank" href="https://weibo.com/u/6894442207">联系开发者</DevelopInfo>
-          <MoneyInfo>
+          <Downloader target="_blank" href="https://github.com/JiangZhaojin/ByeByeLiZhi/tree/master/music">去GitHub下载</Downloader>
+          {/* <DevelopInfo target="_blank" href="https://weibo.com/u/6894442207">联系开发者</DevelopInfo> */}
+          {/* <MoneyInfo>
             <div>请开发者喝奶茶</div>
             <MoneyCode></MoneyCode>
             <MoneyCode2></MoneyCode2>
-          </MoneyInfo>
+          </MoneyInfo> */}
         </TipsWrapper>
       </CommentWrapper>
     )
