@@ -1,4 +1,4 @@
-yarn build
+npm run build
 
 cp -rf ./build/* ../
 
